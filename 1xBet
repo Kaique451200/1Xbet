@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="refresh" content="5; url=https://reffpa.com/L?tag=d_4565109m_1599c_&site=4565109&ad=1599" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Redirecionando para 1xBet com bônus exclusivo</title>
+  <style>
+    body {
+      background: #121212;
+      color: #00d600;
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      text-shadow: 0 0 8px #00d600;
+    }
+    p {
+      font-size: 1.1rem;
+      margin-bottom: 2rem;
+      color: #ccc;
+    }
+    a.button {
+      background: #00d600;
+      color: #000;
+      font-weight: bold;
+      padding: 15px 30px;
+      border-radius: 8px;
+      text-decoration: none;
+      box-shadow: 0 0 15px #00d600;
+      transition: background 0.3s ease;
+    }
+    a.button:hover {
+      background: #009900;
+      box-shadow: 0 0 25px #009900;
+    }
+  </style>
+</head>
+<body>
+  <h1>Você será redirecionado para a 1xBet com bônus exclusivo!</h1>
+  <p>Se o redirecionamento não funcionar, clique no botão abaixo para acessar.</p>
+  <a href="https://reffpa.com/L?tag=d_4565109m_1599c_&site=4565109&ad=1599" target="_blank" rel="noopener noreferrer" class="button">Ir para 1xBet</a>
+</body>
+</html>
